@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trilha-net-azure-desafio.Api", "Trilha-net-azure-desafio.Api\Trilha-net-azure-desafio.Api.csproj", "{C05360E0-B806-42F2-9ED0-8CC922B366A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trilha-net-azure-desafio.Domain", "Trilha-net-azure-desafio.Domain\Trilha-net-azure-desafio.Domain.csproj", "{96E0F349-71C0-4FFD-8B37-570D49546138}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trilha-net-azure-desafio.Repository", "Trilha-net-azure-desafio.Repository\Trilha-net-azure-desafio.Repository.csproj", "{085482BC-3C34-4934-90B0-5720557E07A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05360E0-B806-42F2-9ED0-8CC922B366A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05360E0-B806-42F2-9ED0-8CC922B366A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05360E0-B806-42F2-9ED0-8CC922B366A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05360E0-B806-42F2-9ED0-8CC922B366A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E0F349-71C0-4FFD-8B37-570D49546138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E0F349-71C0-4FFD-8B37-570D49546138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E0F349-71C0-4FFD-8B37-570D49546138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E0F349-71C0-4FFD-8B37-570D49546138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085482BC-3C34-4934-90B0-5720557E07A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085482BC-3C34-4934-90B0-5720557E07A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085482BC-3C34-4934-90B0-5720557E07A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085482BC-3C34-4934-90B0-5720557E07A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBCCD87A-7394-4B4C-BBD1-470A5115DA35}
+	EndGlobalSection
+EndGlobal
